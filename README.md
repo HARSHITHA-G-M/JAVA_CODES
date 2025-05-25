@@ -1,8 +1,13 @@
-# JAVA_CODES
-# ☕ Java Programs Collection by Harshitha 💻✨
+
+# ☕ JAVA_CODES
+# 💻 Java Programs Collection by Harshitha ✨
 
 Welcome to my repository of **basic Java programs**! 🎓  
 This collection includes commonly asked programs for beginners and interview preparation 💼👩‍💻
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 ---
 
@@ -38,11 +43,17 @@ This collection includes commonly asked programs for beginners and interview pre
 ## 🛠️ How to Run
 
 1. ✅ Make sure Java is installed:  
-   `java -version`
+   ```bash
+   java -version
+   ```
 2. ⏳ Compile the file:  
-   `javac filename.java`
+   ```bash
+   javac filename.java
+   ```
 3. 🚀 Run the file:  
-   `java filename`
+   ```bash
+   java filename
+   ```
 
 ---
 
@@ -54,4 +65,3 @@ Let’s connect on [GitHub](https://github.com/HARSHITHA-G-M) 🌐
 ---
 
 ⭐ If you like this repo, don't forget to **Star** it! ⭐  
-
